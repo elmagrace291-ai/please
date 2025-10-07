@@ -84,4 +84,3 @@ function requireRole($conn, $userId, $requiredRole) {
     }
     return $roles;
 }
-?>

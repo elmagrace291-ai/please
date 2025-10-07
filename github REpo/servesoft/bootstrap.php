@@ -70,4 +70,3 @@ try {
         'details' => $error->getMessage()
     ]);
 }
-?>
